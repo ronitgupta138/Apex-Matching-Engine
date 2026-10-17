@@ -11,7 +11,7 @@
 
 ### **Apex Matching Engine — Ultra-Low Latency Continuous Double Auction Order Book in Java 21**
 
-[![GitHub Stars](https://badgen.net/github/stars/ronitgupta138/apex-matching-engine?icon=github&color=0891b2)](https://github.com/ronitgupta138/apex-matching-engine/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ronitgupta138/Apex-Matching-Engine?style=flat-square&logo=github&color=0891b2)](https://github.com/ronitgupta138/Apex-Matching-Engine/stargazers)
 [![Java](https://img.shields.io/badge/Java-21-0891b2?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-0891b2?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![WebSockets](https://img.shields.io/badge/WebSockets-STOMP-0891b2?style=flat-square&logo=socketdotio&logoColor=white)](https://spring.io/)
